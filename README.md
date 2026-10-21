@@ -1,6 +1,7 @@
 # Posta Dashboard
 
 Dashboard de estadísticas de publicaciones en Instagram, Facebook, YouTube y TikTok.
+Update
 
 - `frontend/` — React + Vite + Recharts
 - `backend/` — Node + Express (conectores por plataforma; sin credenciales devuelve datos de ejemplo)
